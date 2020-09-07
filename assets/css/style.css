@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* formatting for the entire header section */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ body {
     color: #ffffff;
 }
 
+/* formatting for the "hori" and "n" in horiseon logo */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* formatting for the "seo" in horiseon logo */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* formatting for the navbar links */
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +36,29 @@ body {
     font-size: 20px;
 }
 
+/* dicates what style of list the navbar is */
 .header section ul {
     list-style-type: none;
 }
 
+/* formatting for each link on the navbar */
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* formtting for all "a" tags on webpage */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* formtting for all "p" tags on webpage */
 p {
     font-size: 16px;
 }
 
+/* attatchment and formatting of the background image below the navbar */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +68,26 @@ p {
     background-position: center;
 }
 
+/* positiong for the "search-engine-optimization" and "social-media-marketing" images */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* positiong for the "online-reputation-management" image */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* formatting for the "main" section of the webpage */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* formatting for the three horizontal bars of information */
 .info-bars {
     margin-bottom: 20px;
     padding: 50px;
@@ -84,15 +97,18 @@ p {
     color: #ffffff;
 }
 
+/* formatting for the three images in the info bars */
 .info-bars img {
     max-height: 200px;
 }
 
+/* formatting for the heading of each info bar */
 .info-bars h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* formatting for the "aside" section of the webpage */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,22 +120,26 @@ p {
     background-color: #2589bd;
 }
 
+/* formatting for each container insde of the "aside" section */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* formatting for the heading of each section inside of "aside" */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* formatting for the three images inside of the "aside" setion */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* formatting for the entire footer section */
 .footer {
     padding: 30px;
     clear: both;
@@ -127,6 +147,7 @@ p {
     text-align: center;
 }
 
+/* formatting specifically for the heading in the footer */
 .footer h2 {
     font-size: 20px;
 }
