@@ -36,7 +36,7 @@ body {
     font-size: 20px;
 }
 
-/* dicates what style of list the navbar is */
+/* dictates what style of list the navbar is */
 .header section ul {
     list-style-type: none;
 }
@@ -47,18 +47,18 @@ body {
     margin-left: 25px;
 }
 
-/* formtting for all "a" tags on webpage */
+/* formatting for all "a" tags on webpage */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* formtting for all "p" tags on webpage */
+/* formatting for all "p" tags on webpage */
 p {
     font-size: 16px;
 }
 
-/* attatchment and formatting of the background image below the navbar */
+/* attachment and formatting of the background image below the navbar */
 .hero {
     height: 800px;
     width: 100%;
@@ -68,13 +68,13 @@ p {
     background-position: center;
 }
 
-/* positiong for the "search-engine-optimization" and "social-media-marketing" images */
+/* positioning for the "search-engine-optimization" and "social-media-marketing" images */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* positiong for the "online-reputation-management" image */
+/* positioning for the "online-reputation-management" image */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -120,7 +120,7 @@ p {
     background-color: #2589bd;
 }
 
-/* formatting for each container insde of the "aside" section */
+/* formatting for each container inside of the "aside" section */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -132,7 +132,7 @@ p {
     text-align: center;
 }
 
-/* formatting for the three images inside of the "aside" setion */
+/* formatting for the three images inside of the "aside" section */
 .benefit img {
     display: block;
     margin: 10px auto;
