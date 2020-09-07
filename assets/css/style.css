@@ -9,7 +9,7 @@ body {
 }
 
 /* formatting for the entire header section */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -17,18 +17,18 @@ body {
 }
 
 /* formatting for the "hori" and "n" in horiseon logo */
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* formatting for the "seo" in horiseon logo */
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /* formatting for the navbar links */
-.header section {
+header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +37,12 @@ body {
 }
 
 /* dictates what style of list the navbar is */
-.header section ul {
+header section ul {
     list-style-type: none;
 }
 
 /* formatting for each link on the navbar */
-.header section ul li {
+header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -140,7 +140,7 @@ p {
 }
 
 /* formatting for the entire footer section */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -148,6 +148,6 @@ p {
 }
 
 /* formatting specifically for the heading in the footer */
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
