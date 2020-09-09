@@ -4,7 +4,7 @@
 
 # The changes I made to your webpage
 
-    My goal with this assignment was to try and simplify and also add some extra detail to make it easier to assess from the outside looking in. Some of the major changes I made was changing all of the <div> tags to relate to their respective sections. You will now see a <header> tag after the initial <body> tag. This is followed by a <main> tag which is where the horizontal info bars live, and an <aside> tag where the vertical bar on the right side of the page is. At the end you will find the <footer> tag to bring the page to a close.
+    My goal with this assignment was to try and simplify and also add some extra detail to make it easier to assess from the outside looking in. Some of the major changes I made was changing all of the <div> tags to relate to their respective sections. You will now see a <header> tag with a <nav> inside of it after the initial <body> tag. This is followed by a <main> tag which is where the horizontal info bars live, and an <aside> tag where the vertical bar on the right side of the page is. At the end you will find the <footer> tag to bring the page to a close.
 
     Since the above mentioned were mainly HTML changes I will continue by going through the other changes made to the HTML...
 
