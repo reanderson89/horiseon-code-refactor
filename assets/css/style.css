@@ -28,7 +28,7 @@ header h1 .seo {
 }
 
 /* formatting for the navbar links */
-header section {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +37,12 @@ header section {
 }
 
 /* dictates what style of list the navbar is */
-header section ul {
+header nav ul {
     list-style-type: none;
 }
 
 /* formatting for each link on the navbar */
-header section ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
