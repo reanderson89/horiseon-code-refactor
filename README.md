@@ -32,7 +32,7 @@
 
 #   Images of the Webpage
 
-    ![Horiseon](assets/images/horiseon.jpg)
+  <img src="assets/images/Horiseon.jpg">
 
 
 #   Thank you
