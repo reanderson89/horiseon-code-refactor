@@ -33,6 +33,7 @@
 #   Images of the Webpage
 
   <img src="assets/images/Horiseon.jpg">
+  <img src="assets/images/Horiseon2.jpg">
 
 
 #   Thank you
